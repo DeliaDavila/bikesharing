@@ -53,6 +53,7 @@ The data analysis shows that Citi Bike can be used by a city’s residents as we
  
 ### Recommendations
 Additional analysis would help bring Citi Bike to Des Moines. The central New York area is very compact and multi-use, so many people live close enough to their jobs to commute via bike. Also, the upper limit of commute distance is determined by the geography of the area. To work towards translating this data to Des Moines features and attractions, further analysis on trip limits could be done on the New York data. Determining average trip distances would be helpful for getting an estimate of how far riders will go before turning to other methods. Additionally, looking at maximums and standard deviation, both in trip duration and distance, might help determine whether the average number is a good estimate or should be adjusted up or down.
+
 Additionally, further analysis of the New York data could help determine determine what kind of use to expect throughout the year and over time. One suggested project is to plot the New York data against weather data on the same dates to determine at what point weather causes dips in ridership. Setting the context of ridership drops in terms of extreme temperatures or inclement weather and then comparing to Des Moines weather would help determine a base level of year-round ridership to prepare for.
 
 
