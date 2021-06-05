@@ -1,7 +1,7 @@
 # Bike Sharing with Citi Bike
 
 ## Overview of Project
-This project analyzes Citi Bike bikesharing data and provides visualizations to understand the data. Screenshots shared below are available an [link to dashboard](https://public.tableau.com/app/profile/delia.davila/viz/CitiBikeAnalysis_dd/CitibikeAnalysis "interactive public presentation"), courtesy of Tableau.
+This project analyzes Citi Bike bikesharing data and provides visualizations to understand the data. Screenshots shared below are available as an [interactive public presentation](https://public.tableau.com/app/profile/delia.davila/viz/CitiBikeAnalysis_dd/CitibikeAnalysis "interactive public presentation"), courtesy of Tableau.
 
 ### Purpose
 This project was completed to help investors understand Citi Bike bikesharing. Data analysis was performed to determine that bike sharing would work for Des Moines, Iowa. 
@@ -30,6 +30,7 @@ The third graph shows a distribution of ridership by weekday and by hour. It’s
 ### 4. Trips by Gender (Weekday/hr)
  
 ![4_TripsGender_Unknown](https://github.com/DeliaDavila/bikesharing/blob/main/Images/4_TripsGender_Unknown.png)
+
 On the fourth graph, the previous graph is broken down by gender as well as weekday and hour. When the “unknown” gender is isolated, it’s easy to see that the ridership is heavily concentrated on the weekend afternoons. There is also a bit heavier use in the early evening hours, regardless of days. This supports the idea that the “unknown” gender actually represents tourists renting the bikes while visiting the city. 
 ### 5. User Trips by Gender by Weekday
  
@@ -51,7 +52,7 @@ The last graph delves into another aspect of the ridership, showing the average 
 The data analysis shows that Citi Bike can be used by a city’s residents as well as visitors. Even in New York City, where tourism is one of the main industries, Citi Bike subscribers who regularly use the bikes to commute outnumber the tourists who pay per ride, even in a high tourism month like August. This is good news for Des Moines, because the bike sharing business will be attractive even to cities who aren’t major tourism hubs. Additionally, analysis found that subscribers across genders and ages rented bikes regularly.
  
 ### Recommendations
-Additional analysis would help bring Citi Bike to Des Moines. The central New York area is very compact and multi-use, so many people live close enough to their jobs to commute via bike. Also, the upper limit of commute distance is determined by the geography of the area.
-To determine the size subscriber base, further analysis of Des Moines features and attractions would be necessary. To do this, it would be best to determine likely starting points in Des Moines, such as business centers, colleges, and tourist attractions. Using these starting points and applying average trip distances from the New York data, it would be possible to determine a good coverage distance. This would help determine likely routes but might also suggest a good initial service area.
+Additional analysis would help bring Citi Bike to Des Moines. The central New York area is very compact and multi-use, so many people live close enough to their jobs to commute via bike. Also, the upper limit of commute distance is determined by the geography of the area. To determine the size subscriber base, further analysis of Des Moines features and attractions would be necessary. To do this, it would be best to determine likely starting points in Des Moines, such as business centers, colleges, and tourist attractions. Using these starting points and applying average trip distances from the New York data, it would be possible to determine a good coverage distance. This would help determine likely routes but might also suggest a good initial service area.
+
 Additionally, additional analysis of Des Moines demographics and weather might help to determine what kind of use to expect throughout the year and over time. One suggested project is to plot the New York data against historical weather data to determine at what point weather causes dips in ridership. Setting the context of ridership drops in terms of extreme temperatures or inclement weather and then comparing to Des Moines weather would help us determine a base level of year-round ridership to prepare for.
 
