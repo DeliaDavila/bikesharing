@@ -22,7 +22,6 @@ Let’s dive into more detail about the people who use Citi Bike.
 ![2_CheckoutGender](https://github.com/DeliaDavila/bikesharing/blob/main/Images/2_CheckoutGender.png)
 
 The second graph shows the breakdown by reported gender. The trip length between male and female looks similar, while the “unknown” gender seems to have more of a spread in how long the bikes were used. This indicates a different kind of rider, as we’ll see in later analysis.
- 
 ### 3. Trips by Weekday per Hour
  
 ![3_TripsWkdayHr](https://github.com/DeliaDavila/bikesharing/blob/main/Images/3_TripsWkdayHr.png)
@@ -45,14 +44,15 @@ The good news for Des Moines Citi Bike is shown in the 6th graph. The customer b
 ### 7. Trip Duration by Age/Type
 
 ![7_TripDurationByAgeType](https://github.com/DeliaDavila/bikesharing/blob/main/Images/7_TripDurationByAgeType.png)
-The last graph delves into another aspect of the ridership, showing the average trip duration against the rider’s birth year. I added the user type as well. Here again, we see more evidence that the Citi Bike subscriber is a commuter. The trip duration is very consistent for subscribers, regardless of birth year. 
+
+Graph 7 delves into another aspect of the ridership, showing the average trip duration against the rider’s birth year. I added the user type as well. Here again, we see more evidence that the Citi Bike subscriber is a commuter. The trip duration is very consistent for subscribers, regardless of birth year. 
 
 ## Summary
 ### Findings
 The data analysis shows that Citi Bike can be used by a city’s residents as well as visitors. Even in New York City, where tourism is one of the main industries, Citi Bike subscribers who regularly use the bikes to commute outnumber the tourists who pay per ride, even in a high tourism month like August. This is good news for Des Moines, because the bike sharing business will be attractive even to cities who aren’t major tourism hubs. Additionally, analysis found that subscribers across genders and ages rented bikes regularly.
  
 ### Recommendations
-Additional analysis would help bring Citi Bike to Des Moines. The central New York area is very compact and multi-use, so many people live close enough to their jobs to commute via bike. Also, the upper limit of commute distance is determined by the geography of the area. To determine the size subscriber base, further analysis of Des Moines features and attractions would be necessary. To do this, it would be best to determine likely starting points in Des Moines, such as business centers, colleges, and tourist attractions. Using these starting points and applying average trip distances from the New York data, it would be possible to determine a good coverage distance. This would help determine likely routes but might also suggest a good initial service area.
+Additional analysis would help bring Citi Bike to Des Moines. The central New York area is very compact and multi-use, so many people live close enough to their jobs to commute via bike. Also, the upper limit of commute distance is determined by the geography of the area. To work towards translating this data to Des Moines features and attractions, further analysis on trip limits could be done on the New York data. Determining average trip distances would be helpful for getting an estimate of how far riders will go before turning to other methods. Additionally, looking at maximums and standard deviation, both in trip duration and distance, might help determine whether the average number is a good estimate or should be adjusted up or down.
+Additionally, further analysis of the New York data could help determine determine what kind of use to expect throughout the year and over time. One suggested project is to plot the New York data against weather data on the same dates to determine at what point weather causes dips in ridership. Setting the context of ridership drops in terms of extreme temperatures or inclement weather and then comparing to Des Moines weather would help determine a base level of year-round ridership to prepare for.
 
-Additionally, additional analysis of Des Moines demographics and weather might help to determine what kind of use to expect throughout the year and over time. One suggested project is to plot the New York data against historical weather data to determine at what point weather causes dips in ridership. Setting the context of ridership drops in terms of extreme temperatures or inclement weather and then comparing to Des Moines weather would help us determine a base level of year-round ridership to prepare for.
 
